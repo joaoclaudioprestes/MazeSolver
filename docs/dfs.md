@@ -22,3 +22,9 @@ path = dfs(maze, start, goal)
 ## Referências
 
 - [Wikipedia: DFS](https://pt.wikipedia.org/wiki/Depth-first_search)
+
+---
+
+## 🖼️ Exemplo de Solução
+
+![Solução do DFS](img/dfs_solution.png)

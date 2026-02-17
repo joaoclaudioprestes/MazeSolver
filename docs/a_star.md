@@ -18,3 +18,9 @@ O A* é um algoritmo de busca heurística eficiente para encontrar o caminho mai
 ## Referências
 
 - [Wikipedia: A*](https://pt.wikipedia.org/wiki/A*_Search_Algorithm)
+
+---
+
+## 🖼️ Exemplo de Solução
+
+![Solução do A*](img/a_star_solution.png)

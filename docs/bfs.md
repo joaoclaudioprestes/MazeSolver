@@ -16,3 +16,9 @@ O BFS explora o labirinto em camadas, garantindo encontrar o caminho mais curto 
 ## Referências
 
 - [Wikipedia: BFS](https://pt.wikipedia.org/wiki/Breadth-first_search)
+
+---
+
+## 🖼️ Exemplo de Solução
+
+![Solução do BFS](img/bfs_solution.png)
